@@ -10,7 +10,6 @@ import shap
 import plotly.graph_objects as go
 
 app = dash.Dash(external_stylesheets=[dbc.themes.SUPERHERO])
-server= app.server
 modelo= load('assets/randomForest.joblib') 
 
 
