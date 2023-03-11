@@ -6,3 +6,4 @@ dash_bootstrap_components
 dash
 joblib
 scikit-learn
+shap
